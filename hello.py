@@ -4,5 +4,3 @@ def more_hello():
 
 def more_goodbye():
     return "Goodbye again!"
-
-def more_goodbye()
